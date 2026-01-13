@@ -2,7 +2,8 @@
 
 Eine interaktive Webseite, auf der jeder Schüler seinen eigenen Steckbrief hinzufügen kann.
 
-**Live ansehen:** [[https://DEIN-USERNAME.github.io/klassen-steckbriefe](https://7ilx222t-ai.github.io/unsere-klasse)]
+**Live ansehen:** [https://7ilx222t-ai.github.io/unsere-klasse](https://7ilx222t-ai.github.io/unsere-klasse)
+
 ---
 
 ## 📝 Anleitung für Schüler
@@ -30,11 +31,11 @@ Eine interaktive Webseite, auf der jeder Schüler seinen eigenen Steckbrief hinz
     </div>
     <div class="card-body">
         <div class="info-row">
-            <span class="label">🎮 Hobby:</span>
+            <span class="label">Hobby:</span>
             <span class="value">Dein Hobby</span>
         </div>
         <div class="info-row">
-            <span class="label">📚 Lieblingsfach:</span>
+            <span class="label">Lieblingsfach:</span>
             <span class="value">Fach bei Lehrer/in</span>
         </div>
     </div>
@@ -52,25 +53,6 @@ Eine interaktive Webseite, auf der jeder Schüler seinen eigenen Steckbrief hinz
 ### Schritt 4: Ergebnis ansehen
 - Warte 1-2 Minuten
 - Öffne die Live-Seite und sieh deinen Steckbrief! 🎉
-
----
-
-## 🎨 Emojis für Hobbys
-
-Hier sind ein paar Emojis, die du verwenden kannst:
-
-| Emoji | Bedeutung |
-|-------|-----------|
-| ⚽ | Fußball |
-| 🏀 | Basketball |
-| 🎮 | Gaming |
-| 🎵 | Musik |
-| 🎨 | Kunst/Zeichnen |
-| 📖 | Lesen |
-| 🏃 | Laufen/Sport |
-| 🥊 | Boxen |
-| 🎬 | Filme |
-| 💻 | Programmieren |
 
 ---
 
