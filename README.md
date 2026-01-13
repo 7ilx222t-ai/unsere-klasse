@@ -2,8 +2,7 @@
 
 Eine interaktive Webseite, auf der jeder Schüler seinen eigenen Steckbrief hinzufügen kann.
 
-**Live ansehen:** [https://DEIN-USERNAME.github.io/klassen-steckbriefe](https://7ilx222t-ai.github.io/unsere-klasse)
-
+**Live ansehen:** [[https://DEIN-USERNAME.github.io/klassen-steckbriefe](https://7ilx222t-ai.github.io/unsere-klasse)]
 ---
 
 ## 📝 Anleitung für Schüler
